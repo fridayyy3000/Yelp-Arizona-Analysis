@@ -37,19 +37,3 @@
 - Tip analysis revealed **Michael** posted over **4,000 tips** alone.
 - Users like **Jonathan** and **Manny** had high influence but diverged from business average ratings.
 
----
-
-## 📌 Sample Visuals (Optional)
-
-> Include `.png` files or export plots from the notebooks to show visual outputs like:
-- Top Cities by Business Count
-- Elite vs Non-Elite Rating Distribution
-- Review Trends by Year for Top Contributors
-
----
-
-## 🧪 Environment Setup
-
-### 1️⃣ Install Dependencies
-```bash
-pip install pyspark pandas matplotlib jupyter
